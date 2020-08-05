@@ -3,7 +3,6 @@
 
 I'm currently working on personal projects to improve my knowledge and trying to learn new technologies.
 
-### Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on open sources projects
 - 🌱 I’m currently learning Python3, React.
 - 📫 How to reach me: jeanhrsouza@hotmail.com <br/><br/>
