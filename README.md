@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there <img src= "https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width= "25px"> </img>
 
 
 I'm currently working on personal projects to improve my knowledge and trying to learn new technologies.
