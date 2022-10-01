@@ -4,7 +4,7 @@
 I'm currently working on personal projects to improve my knowledge and trying to learn new technologies.
 
 - 👯 I’m looking to collaborate on open sources projects
-- 🌱 I’m currently learning Python3 and Angular.
+- 🌱 I’m currently learning Python3 and database modeling.
 - 📫 How to reach me: jeanhrsouza@hotmail.com <br/><br/>
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jeanhrsouza)](https://www.linkedin.com/in/jeanhrsouza)
 
